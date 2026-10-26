@@ -1,5 +1,3 @@
-Export a PDF when the wording should stay put, and keep the editable file if you will change it again. A password you cannot open is not removed here.
-
 # LibreOffice - Documents You Write and Files You Were Given
 
 ![LibreOffice Writer with a document the user is editing and saving under a new name](https://blog.desdelinux.net/wp-content/uploads/2022/07/conociendo-libreoffice-tutorial-03-libreoffice-writer-imagen-contenido-1-blog-desdelinux.jpg)
